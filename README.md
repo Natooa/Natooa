@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://interactive-resume-react-flax.vercel.app/images/PixelArtGameRoom2.gif)](https://github.com/Natooa) -->
 <h1 align="center">Hi 👋, I'm Nurdiyar</h1>
-<h3 align="center">Software Ingineer from Kazakhstan sharing my journey and learnings int tech</h3>
+<h3 align="center">Software Ingineer from Kazakhstan sharing my journey and learnings in tech</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/39/6a/6e396ac75293f741be7b7855ba4968e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natooa&label=Profile%20views&color=0e75b6&style=flat" alt="natooa" /> </p>
